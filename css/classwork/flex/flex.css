@@ -1,18 +1,19 @@
 .container {
     display: flex;
     flex-direction: row;
+    justify-content: space-between;
     gap: 40px;
     background-color:yellow;
     padding: 20px;
     flex-wrap: wrap;
-    height: 2560px;
-    width: 660px;
+    /* height: 2560px; */
+    /* width: 660px; */
 }
 
 .container div {
     background-color: #eee;
     width: 240px;
-    height: 110px;
+    height: 220px;
     display: flex;
     justify-content: center;
     align-items: center;
