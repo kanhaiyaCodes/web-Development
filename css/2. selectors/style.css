@@ -1,0 +1,30 @@
+* {
+    font-family: fantasy;
+}
+
+
+body {
+    font-size: 24px;
+}
+p:hover{
+    font-family: 'Courier New', Courier;
+}
+
+#first>p {
+    color: green;
+}
+
+#first,
+#second {
+    color: red;
+}
+
+.purple {
+    color: purple;
+    font-family: monospace;
+}
+
+.highlight {
+    background: yellow;
+    font-weight: bolder;
+}

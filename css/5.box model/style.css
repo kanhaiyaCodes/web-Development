@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+
+}
+
+.Box{
+    width: 200px;
+    height: 200px;
+    border: 20px solid red;
+    padding:30 px;
+    margin: 40px ;
+    
+}
